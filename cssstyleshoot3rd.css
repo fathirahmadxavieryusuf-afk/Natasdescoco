@@ -1,9 +1,28 @@
-header{ 
-    text-align: center;
+header img{
+    margin-right: 0px;
+    height: 100px; 
+    width: 100px;
 }
-nav a{
+
+header{
+    text-align: center;
+    
+}
+
+.Nan{
+    text-decoration: none;
+}
+
+.myDIV{
 
 }
+
+.TexT{
+    font-size: large;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    word-spacing: 10px;
+}
+
 nav a:hover{
 
 }
