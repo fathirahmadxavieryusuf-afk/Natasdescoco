@@ -3,6 +3,8 @@ body{
     background-color: moccasin;
 }
 
+/* HEADER */
+
 header{
     text-align:center;
     background-color:rgb(203, 151, 48);
@@ -36,6 +38,7 @@ nav a:hover{
     box-shadow:5px 5px 5px -2px rgb(149,113,113);
 }
 
+/* HOME SECTION */
 
 section.home{
     height:500px;
@@ -66,12 +69,15 @@ p{
     font-family:Arial, Helvetica, sans-serif;
 }
 
+/* ABOUT */
+
 .containerabout{
     padding:40px;
     border-radius:20px;
     text-align:center;
     max-width:700px;
     margin:100px auto;
+    background:linear-gradient(to right,darksalmon,coral,chocolate);
     box-shadow:0px 0px 5px;
 }
 
@@ -79,6 +85,8 @@ p{
     width:30%;
     border-radius:20px;
 }
+
+/* PROFILE */
 
 .cardprofile{
     background-color:rgb(213,209,209);
